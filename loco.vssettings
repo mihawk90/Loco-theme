@@ -27,6 +27,7 @@
 							<Item Name="CSS Keyword" Foreground="0x00FF99FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS String Value" Foreground="0x0082E582" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CurrentLineFormat" Foreground="0x02000000" Background="0x00000000" BoldFont="No"/>
+  						<Item Name="CurrentLineInactiveFormat" Foreground="0x02000000" Background="0x00313131" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x00817F3C" BoldFont="No"/>
 							<Item Name="HTML Attribute" Foreground="0x00FFDE75" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Attribute Value" Foreground="0x0082E582" Background="0x02000000" BoldFont="No"/>
